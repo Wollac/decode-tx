@@ -4,11 +4,11 @@
   "private": true,
   "homepage": "http://wollac.github.io/decode-tx",
   "dependencies": {
-    "@iota/transaction-converter": "^1.0.0-beta.23",
+    "@iota/transaction-converter": "^1.0.0-beta.30",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-json-view": "^1.19.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.2"
   },
   "scripts": {
     "format": "prettier --single-quote --write src/**/*.js",
@@ -29,7 +29,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gh-pages": "^3.0.0",
+    "gh-pages": "^3.1.0",
     "prettier": "^2.0.5"
   }
 }
